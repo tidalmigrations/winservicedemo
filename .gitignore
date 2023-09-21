@@ -1,0 +1,21 @@
+# Ignore python cache files
+global-exclude *.pyc
+global-exclude *.pyo
+global-exclude *.pyd
+global-exclude *.so
+global-exclude *.dll
+global-exclude *.dylib
+global-exclude *.bak
+global-exclude *.swp
+global-exclude *.swo
+global-exclude *.swn
+global-exclude *.un~
+global-exclude *.tmp
+global-exclude *.tmp.*
+global-exclude *.log
+global-exclude *.cache
+global-exclude *.idea
+global-exclude *.DS_Store
+global-exclude *.coverage
+global-exclude *.egg-info
+global-exclude *.egg
